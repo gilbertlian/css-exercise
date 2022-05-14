@@ -1,0 +1,14 @@
+.yummy,
+.delecious {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.yummy {
+    background-color: black;
+    color: white;
+}
+
+.delecious {
+    background-color: yellow;
+}
